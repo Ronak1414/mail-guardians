@@ -73,6 +73,10 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 - **React** (frontend interface for user interactions)
 - **Django** (backend for API endpoints and server-side processing)
 
+## Project Structure
+
+
+
 ## Installation
 
 1. **Clone the repository**:
@@ -124,6 +128,8 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 
 - **SSL Certificate Validation**: Ensures that Mail Guardian only interacts with secure websites by validating SSL certificates.
 - **Blockchain Integrity**: All stored phishing data is immutable, ensuring trustworthiness of the reports.
+
+## Output
 
 ## Contributing
 
