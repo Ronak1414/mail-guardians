@@ -1,6 +1,8 @@
 
 # Mail Guardian
 
+![Mail Guardian Banner](./assets/MAIL.svg)
+
 **Mail Guardian** is an advanced phishing detection tool designed as a browser extension to proactively analyze email content, links, attachments, and sender reputation. By leveraging machine learning, content analysis, and API integrations, Mail Guardian empowers users to detect and avoid phishing emails before they compromise sensitive information. The tool uses multiple detection layers to identify phishing tactics, including suspicious URLs, malicious keywords, and fake SSL certificates. Additionally, Mail Guardian stores analysis data securely on the blockchain, providing transparent and tamper-proof reports.
 
 ## Table of Contents
