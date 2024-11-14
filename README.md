@@ -17,7 +17,7 @@
 - [Security](#security)
 - [Output](#output)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -141,6 +141,4 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License.
