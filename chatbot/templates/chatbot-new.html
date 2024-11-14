@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phishing Awareness Chatbot</title>
+  <link rel="stylesheet" href="\static\css\chatbot-new.css" />
+</head>
+<body>
+  <video autoplay muted loop id="background-video">
+    <source src="C:\Users\ronak\OneDrive\Desktop\projects\mail gaurdian\chatbot\static\chabot-new.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <div class="container">
+    <header>
+      <h1>Ask our Chatbot About Phishing</h1>
+    </header>
+    <div class="chatbot">
+      <div class="chatbox">
+        <div id="chat-output"></div>
+        <input id="user-input" type="text" placeholder="Type your question here..." />
+        <button id="send-btn">Send</button>
+      </div>
+    </div>
+    <a href="http://127.0.0.1:5000/" class="report-btn">CHECK REPORT</a>
+  </div>
+
+  <script src="chatbot-new.js"></script>
+</body>
+</html>
