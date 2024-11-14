@@ -54,6 +54,10 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 - Enables transparent, immutable reporting.
 - Provides user-authenticated reports to analyze phishing patterns and protection status.
 
+### 6. Chatbot Support
+- Provides an interactive chatbot to answer user questions about phishing and help troubleshoot basic support queries.
+- Educates users on identifying phishing tactics and understanding safe browsing practices.
+
 ## Tech Stack
 
 ### Framework and Language
