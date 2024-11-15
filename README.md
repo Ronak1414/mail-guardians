@@ -146,6 +146,19 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 
 ## Output
 
+### Using the Mail Guardian Plugin to check the mail is phishing
+![Mail Guardian Plugin](/assets/plugin.png)
+
+### The Website for Mail Guardian 
+![Mail Guardian Website](/assets/frontend.png)
+
+### The Learn With ME ChatBot
+![Learn with me chatbot](/assets/chatbot.png)
+
+### Reports Generation
+![Reports Generation](/assets/reports.png)
+
+
 ## Contributing
 
 1. Fork the repository.
