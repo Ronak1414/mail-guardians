@@ -88,7 +88,6 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 ## Project Structure
 
 
-
 ## Installation
 
 1. **Clone the repository**:
