@@ -16,7 +16,6 @@ View [animated version here](./assets/MAIL.gif).
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Requirements](#requirements)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [API Integration](#api-integration)
@@ -88,11 +87,6 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 
 ## Project Structure
 
-
-## Requirements
-
-1. Install Requirements: After creating requirements.txt, install all dependencies with:Create a new branch for your feature (`pip install -r requirements.txt`).
-2. Updating Dependencies: If you add new libraries during development, update requirements.txt by using:(`pip freeze > requirements.txt`)
 
 ## Installation
 
