@@ -142,7 +142,7 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 - **Blockchain Integrity**: All stored phishing data is immutable, ensuring trustworthiness of the reports.
 
 ## Video Explanation
-[![Watch the video](https://img.youtube.com/vi/v=Dm18O416UV0/assets/IMG_5841.png)](https://www.youtube.com/watch?v=Dm18O416UV0)
+[![Watch the video](https://img.youtube.com/vi/Dm18O416UV0/assets/IMG_5841.png)](https://www.youtube.com/watch?v=Dm18O416UV0)
 
 ## Output
 
