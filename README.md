@@ -21,6 +21,7 @@ View [animated version here](./assets/MAIL.gif).
 - [API Integration](#api-integration)
 - [Data Storage](#data-storage)
 - [Security](#security)
+- [Video Explanation](#video-explanation)
 - [Output](#output)
 - [Contributing](#contributing)
 
@@ -140,7 +141,23 @@ Phishing attacks account for 94% of cyber incidents, often through malicious ema
 - **SSL Certificate Validation**: Ensures that Mail Guardian only interacts with secure websites by validating SSL certificates.
 - **Blockchain Integrity**: All stored phishing data is immutable, ensuring trustworthiness of the reports.
 
+## Video Explanation
+[![Watch the video](https://img.youtube.com/vi/Dm18O416UV0/0.jpg)](https://www.youtube.com/watch?v=Dm18O416UV0)
+
 ## Output
+
+### Using the Mail Guardian Plugin to check the mail is phishing
+![Mail Guardian Plugin](/assets/plugin.png)
+
+### The Website for Mail Guardian 
+![Mail Guardian Website](/assets/frontend.png)
+
+### The Learn With ME ChatBot
+![Learn with me chatbot](/assets/chatbot.png)
+
+### Reports Generation
+![Reports Generation](/assets/reports.png)
+
 
 ## Contributing
 
